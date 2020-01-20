@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 gem "github-pages", group: :jekyll_plugins
+title: BAKU!
+description: The rythm game based on the keyboard
